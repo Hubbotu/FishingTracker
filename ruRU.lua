@@ -5,7 +5,7 @@ if not L then return end
 -- UI Elements
 L["FISHING_TRACKER"] = "Fishing Tracker"
 L["FISHING_TRACKER_DEBUG_OUTPUT"] = "Отладочный вывод Fishing Tracker"
-L["FISHING_TRACKER_GLOBAL_FISH_STATISTICS"] = "Fishing Tracker - Глобальная статистика рыбы"
+L["FISHING_TRACKER_GLOBAL_FISH_STATISTICS"] = "Fishing Tracker - Статистика рыбы"
 L["TOTAL_CAUGHT"] = "Всего поймано:"
 L["FISH_CAUGHT_HERE"] = "Рыбы поймано здесь:"
 L["CURRENT_LOCATION_STATS"] = "Статистика текущей локации:"
